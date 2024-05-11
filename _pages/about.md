@@ -1,6 +1,6 @@
 ---
 layout: page
-title:¿Qué es Proyecto El Hogar?
+title: ¿Qué es Proyecto El Hogar?
 permalink: /about
 comments: true
 ---
