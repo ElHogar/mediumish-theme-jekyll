@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>royecto El Hogar no es una galería; es un entorno de artes multidisciplinares donde la pintura, la escultura, la danza, la música y las performances conviven para inspirar y conectar. Es un lugar donde el arte no solo se exhibe, sino que se vive.</p>
+<p>Proyecto El Hogar no es una galería; es un entorno de artes multidisciplinares donde la pintura, la escultura, la danza, la música y las performances conviven para inspirar y conectar. Es un lugar donde el arte no solo se exhibe, sino que se vive.</p>
 
 <h4>Documentation</h4>
 
