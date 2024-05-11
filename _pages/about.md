@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
-permalink: /about
+title: ¿Qué es proyecto el Hogar?
+permalink: /About
 comments: true
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Proyecto El Hogar no es una galería; es un entorno de artes multidisciplinares donde la pintura, la escultura, la danza, la música y las performances conviven para inspirar y conectar. Es un lugar donde el arte no solo se exhibe, sino que se vive.</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4>
