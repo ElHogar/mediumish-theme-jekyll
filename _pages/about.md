@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ¿Qué es Proyecto El Hogar?
-permalink: /Qué somos?
+permalink: /about
 comments: true
 ---
 
